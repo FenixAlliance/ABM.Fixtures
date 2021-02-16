@@ -5,18 +5,7 @@
     "Category": "Portal",
     "Enable": true,
     "StudioMenu": false,
-    "LoggedInOnly": true,
-    "MenuContextItems": [
-      {
-        "ID": "",
-        "UID": 0,
-        "Order": 0,
-        "Name": "",
-        "Url": "",
-        "Icon": "",
-        "MenuContextItemType": ""
-      }
-    ]
+    "LoggedInOnly": true
   },
   {
     "ID": "Portal.Footer",
@@ -24,17 +13,7 @@
     "Category": "Portal",
     "Enable": true,
     "StudioMenu": false,
-    "LoggedInOnly": true,
-    "MenuContextItems": [
-      {
-        "ID": "",
-        "UID": 0,
-        "Order": 0,
-        "Name": "",
-        "Url": "",
-        "Icon": "",
-        "MenuContextItemType": ""
-      }
-    ]
+    "LoggedInOnly": true
+
   }
 ]
