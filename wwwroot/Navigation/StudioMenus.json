@@ -8,16 +8,6 @@
     "StudioMenu": true,
     "LoggedInOnly": false
   },
-
-  {
-    "ID": "Portal.Empty",
-    "Name": "Home",
-    "Category": "Studio",
-    "Enable": true,
-    "StudioMenu": true,
-    "LoggedInOnly": false
-  },
-
   {
     "ID": "Studio.Home",
     "Name": "Home",
