@@ -48,7 +48,7 @@
         "UID": 0,
         "Order": 0,
         "Name": "Alliance Network",
-        "Url": "/Studio/Network",
+        "Url": "/Studio/Admin",
         "Icon": "fal fa-share-alt-square",
         "MenuContextItemType": "New"
       },
@@ -747,7 +747,7 @@
         "UID": 0,
         "Order": 0,
         "Name": "Network",
-        "Url": "/Studio/Network",
+        "Url": "/Studio/Admin",
         "Icon": "fal fa-project-diagram",
         "MenuContextItemType": "New"
       },
@@ -756,7 +756,7 @@
         "UID": 0,
         "Order": 0,
         "Name": "Holders",
-        "Url": "/Studio/Network/Holders",
+        "Url": "/Studio/Admin/Holders",
         "Icon": "fal fa-home",
         "MenuContextItemType": "New"
       },
@@ -765,7 +765,7 @@
         "UID": 0,
         "Order": 0,
         "Name": "Holders",
-        "Url": "/Studio/Network/Contacts",
+        "Url": "/Studio/Admin/Contacts",
         "Icon": "fal fa-home",
         "MenuContextItemType": "New"
       },
@@ -774,7 +774,7 @@
         "UID": 0,
         "Order": 0,
         "Name": "Organizations",
-        "Url": "/Studio/Network/Organizations",
+        "Url": "/Studio/Admin/Organizations",
         "Icon": "fal fa-home",
         "MenuContextItemType": "New"
       },
@@ -783,7 +783,7 @@
         "UID": 0,
         "Order": 0,
         "Name": "Home",
-        "Url": "/Studio/Network/Partners",
+        "Url": "/Studio/Admin/Partners",
         "Icon": "fal fa-handshake",
         "MenuContextItemType": "New"
       },
@@ -792,7 +792,7 @@
         "UID": 0,
         "Order": 0,
         "Name": "Developers",
-        "Url": "/Studio/Network/Partners",
+        "Url": "/Studio/Admin/Partners",
         "Icon": "fal fa-code",
         "MenuContextItemType": "New"
       }
